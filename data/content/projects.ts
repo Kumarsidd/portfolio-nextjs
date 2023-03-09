@@ -41,7 +41,7 @@ const projects: Project[] = [
   {
     id: 4,
     title: "Web Scrapper",
-    desc: "Generate a vanilla HTML boilerplate in a flash!",
+    desc: "Generate price alert for a specific product from prominents e-commerce websites!",
     img: "/static/projects/scrapper.png",
     github: "https://github.com/Kumarsidd/Price-Tracker",
     tags: ["Python", "Python-Tkinter"],
