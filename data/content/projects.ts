@@ -18,7 +18,7 @@ const projects: Project[] = [
     img: "/static/projects/textmania.png",
     link: "",
     github: "https://github.com/Kumarsidd/Text-Mania",
-    tags: ["HTML", "CSS", "Javascript", "Gumroad"],
+    tags: ["HTML", "CSS", "Javascript"],
   },
   {
     id: 2,
