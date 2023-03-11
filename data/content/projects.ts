@@ -12,14 +12,6 @@ const projects: Project[] = [
     tags: ["React", "MongoDB", "TailwindCSS", "Express", "OpenAI"],
   },
   {
-    id: 1,
-    title: "Fashion Lama",
-    desc: "An E-commerce webiste with real time dashboard and querying.",
-    img: "/static/projects/lama.png",
-    github: "",
-    tags: ["MERN", "JWT", "Stripe", "Redux"],
-  },
-  {
     id: 2,
     title: "React Emoji Search",
     desc: "1800+ emojis at your fingertips. Ready-to-use with just a simple copy+paste.",
@@ -27,6 +19,14 @@ const projects: Project[] = [
     link: "",
     github: "https://github.com/Kumarsidd/Emoji-Search",
     tags: ["React", "CSS", "JSON"],
+  },
+  {
+    id: 1,
+    title: "Fashion Lama",
+    desc: "An E-commerce webiste with real time dashboard and querying.",
+    img: "/static/projects/lama.png",
+    github: "",
+    tags: ["MERN", "JWT", "Stripe", "Redux"],
   },
   {
     id: 3,
