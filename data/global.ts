@@ -80,7 +80,7 @@ export const footer: Footer = {
         },
         {
           name: "LinkedIn",
-          link: "https://www.linkedin.com/in/siddhesh-kumar-873a31222/",
+          link: "https://www.linkedin.com/in/kumarsiddd",
           icon: "/static/icons/linkedin-f.svg",
           leavesWebsite: true,
         },
