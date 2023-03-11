@@ -48,7 +48,7 @@ function Footer() {
             {footer.support.buymeacoffee !== "" && (
               <div>
                 <a
-                  href={`https://buymeacoffee.com/${footer.support.buymeacoffee}`}
+                  href="https://www.buymeacoffee.com/kumarsidd"
                   target="_blank"
                 >
                   <img
