@@ -16,7 +16,7 @@ const projects: Project[] = [
     title: "React Emoji Search",
     desc: "1800+ emojis at your fingertips. Ready-to-use with just a simple copy+paste.",
     img: "/static/projects/react-emoji-search.png",
-    link: "",
+    link: "https://emojiisearch.vercel.app/",
     github: "https://github.com/Kumarsidd/Emoji-Search",
     tags: ["React", "CSS", "JSON"],
   },
